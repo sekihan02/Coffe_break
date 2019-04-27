@@ -1,5 +1,5 @@
 # Coffe_break
-<img src="https://github.com/sekihan02/Coffe_break/github_image.png" alt="github用画像" title="画像は更新直後の物">
+<img src="./github_image.png" alt="github用画像" title="画像は更新直後の物">
 
 anime.jsで作成したムービーです。
 
