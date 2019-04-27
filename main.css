@@ -1,0 +1,169 @@
+@charset "utf-8";
+* {
+    margin: 5px;
+    padding: 0;
+    position: absolute;
+    /* デバッグ用の色 */
+    /* background-color: #bccddb;  */
+}
+
+
+/* #lofi-life {
+    left: 70%;
+    position: absolute;
+}
+.title {
+    left: 2%;
+    top: 5%;
+} */
+
+#cofee_break {
+    left: 50px;
+    position: absolute;
+}
+.cofee_title {
+    
+}
+
+.watch1 {
+    position: absolute;
+    top: 35px;
+    width: 380px;
+    margin-left: 8px;
+}
+.watch2 {
+    position: absolute;
+    /* width: auto;
+    top: -50%; */
+    top: 35px;
+    /* top: 5%; */
+    width: 380px;
+}
+
+.hand {
+    position: absolute;
+    /* top: 6%; */
+    top: 0px;
+    /* left: 15%; */
+    left: 110px;
+    width: 377px;
+    /* height: 2016px; */
+}
+
+/* ケトル */
+.ketol0 {
+    position: absolute;
+    /* top: 70px; */
+    top: 256px;
+    left: 480px;
+    width: 200px;
+
+    transform:rotate(0deg);
+    /* transform:scale(2); */
+}
+.ketol3 {
+    position: absolute;
+    /* top: 70px; */
+    top: 256px;
+    left: 480px;
+    width: 200px;
+
+    transform:rotate(0deg);
+    /* transform:scale(2); */
+}
+
+.ketol2 {
+    position: absolute;
+    /* top: 70px; */
+    top: 256px;
+    left: 480px;
+    width: 200px;
+
+    transform:rotate(45deg);
+    /* transform:scale(2); */
+}
+
+#write_disp {
+    left: 0%;
+    top: 0px;
+    position: absolute;
+}
+.write {
+    position: absolute;
+    left: 0px;
+    /* top: -100px; */
+    top: -570px;
+    /* width: 120px; */
+}
+
+.hot_water {
+    position: absolute;
+}
+
+.water_hot {
+    position: absolute;
+    left: 470px;
+    width: 160px;
+    top: 98px;
+    /* bottom: 820px; */
+}
+
+.steam {
+    position: absolute;
+    left: 470px;
+    width: 160px;
+    top: 98px;
+    /* bottom: 790px; */
+}
+
+#bred-stand {
+    margin-left: 15px;
+}
+.bread {
+    position: absolute;
+    top: 170px;
+    width: 150px;
+}
+/* ハンドル */
+.bread3 {
+    top: 200px;
+    left: 0px;
+}
+/* パン */
+.bread4 {
+    position: absolute;
+    /* top: 70px; */
+    top: 145px;
+    width: 180px;
+}
+/* コーヒーカップ */
+.cup {
+    position: absolute;
+    width: 180px;
+}
+.coffecup {
+    position: absolute;
+    top: 180px;
+    left: 316px;
+}
+.water {
+    position: absolute;
+    top: 180px;
+    left: 316px;
+}
+.cafee {
+    position: absolute;
+    top: 180px;
+    left: 316px;
+}
+
+#cafeeMask {
+    top: 0px;
+    position: absolute;
+}
+
+.face1 {
+    position: absolute;
+    top: 36px;
+    width: 560px;
+}
